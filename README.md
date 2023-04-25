@@ -1,5 +1,4 @@
 # Cars-image-recognition
-# Cars-image-recognition
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*CQXQxHDKi0Q2IpdjhufEcw.jpeg)
 
 

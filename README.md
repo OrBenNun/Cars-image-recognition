@@ -1,5 +1,5 @@
 # Cars-image-recognition
-![alt text](https://cdn-images-1.medium.com/max/1600/1*CQXQxHDKi0Q2IpdjhufEcw.jpeg)
+![alt text]()
 
 
 The present project involves preprocessing a dataset of 16,000 car images into 196 distinct classes. To mitigate overfitting issues, we applied several data augmentation techniques, including Resize, RandomRotation, ColorJitter, RandomResizedCrop, RandomHorizontalFlip, and Normalize. Following this, we implemented three advanced techniques to achieve high classification accuracy: Transfer Learning, Image Retrieval, and End-To-End CNN.
